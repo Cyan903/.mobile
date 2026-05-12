@@ -1,6 +1,6 @@
-# ~/mobile
+# .mobile
 
-![code-size](https://img.shields.io/github/languages/code-size/cyan903/mobile) ![last-commit](https://img.shields.io/github/last-commit/cyan903/mobile)
+![code-size](https://img.shields.io/github/languages/code-size/cyan903/.mobile) ![last-commit](https://img.shields.io/github/last-commit/cyan903/.mobile)
 
 Dotfiles for my Android phone (mostly Termux).
 
